@@ -1,2 +1,2 @@
 # Websocket
-Websocket implementation using Node js 
+Websocket implementation in Node js 
